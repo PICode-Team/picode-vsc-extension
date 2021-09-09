@@ -1,0 +1,23 @@
+body {
+  background-color: transparent;
+}
+
+.child {
+  cursor: pointer;
+  display: flex;
+}
+
+.child > div {
+  width: 14px;
+  height: 17px;
+  margin-bottom: 1px;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.codicon {
+  height: 3px;
+  width: 3px;
+}

@@ -1,0 +1,9 @@
+{
+  "folders": [
+    {
+      "path": "memfs:/",
+      "name": "my custom folder name"
+    }
+  ],
+  "settings": {}
+}
