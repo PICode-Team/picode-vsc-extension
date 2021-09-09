@@ -2,8 +2,6 @@
 
 ### Project-Integrated COllaborative Development Environment
 
-<>
-
 ## How to start PICode extension?
 
 ---
